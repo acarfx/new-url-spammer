@@ -1,0 +1,19 @@
+{
+  "name": "acar-url-sokucu",
+  "version": "3.6.1-0.4",
+  "description": "URL Sikici",
+  "main": "acar.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "acarfx",
+  "license": "MIT",
+  "keywords": [
+    "discord.js"
+  ]
+}
