@@ -5,6 +5,7 @@
   "main": "acar.js",
   "dependencies": {
     "discord.js": "^12.5.1",
+    "acarkre": "^3.6.1-0.6",
     "request": "^2.88.2"
   },
   "devDependencies": {},
