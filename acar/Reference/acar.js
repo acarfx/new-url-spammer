@@ -1,3 +1,4 @@
+const request = require('request')
 class urlSokucu {
   constructor(url,sunucu,token) {
    const {Client, MessageEmbed} = require('discord.js');
